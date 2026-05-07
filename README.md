@@ -5,7 +5,7 @@ This project analyzes the statistical behavior of the BTC/USDT cryptocurrency ma
 
 The analysis focuses on:
 - return dynamics
-- - volatility clustering
+- volatility clustering
 - market regime detection
 - relationships between volatility and trading activity
 The project applies time-series and statistical analysis techniques to better understand how crypto markets behave under different market conditions.
